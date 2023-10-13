@@ -1,0 +1,21 @@
+{
+  "PREFIX": "rap!",
+  "EMBED_COLOR": "#FF0000",
+  "OWNER_ID": "1010248113946107974",
+  "GUILD_LOGS": "1008108392432279623",
+  "LEAVE_TIMEOUT": "1",
+  "DISABLE_PREMIUM": "true",
+  "DEFAULT_PLATFORM": "ytmsearch",
+  "SPOTIFY_ID": "6c31645ffb004ab8b44d06f7b96d1b66",
+  "SPOTIFY_SECRET": "3618fdc0b4824cfd91a8d425dac32987",
+  "NODE_NAME": "rapiariep",
+  "NODE_HOST": "54.38.198.23",
+  "NODE_PORT": "88",
+  "NODE_PASSWORD": "stonemusicgay",
+  "NODE_SECURE": "false",
+  "MONGO_URI": "mongodb+srv://rapiariep:makanbang123@rapiariep.mjbtw5y.mongodb.net",
+  "SUPPORT_URL": "https://discord.gg/jTnCERzE4G",
+  "INVITE_URL": "https://discord.com/api/oauth2/authorize?client_id=1053420091074682940&permissions=8&scope=bot",
+  "IMAGE_URL": "https://example.com/image.png",
+  "TOKEN": "MTA1MzQyMDA5MTA3NDY4Mjk0MA.GJvgZU.QjBp3Ou30lMYisoFvIRQNG7hIPsP_XFGnLXdR0"
+}
